@@ -81,7 +81,7 @@ export default function Home() {
         <a className="brand-lockup" href="/" aria-label="The Grid Poet home">
           <Image src="/pp-logo2.png" alt="The Grid Poet" width={220} height={44} priority />
         </a>
-        <p className="edition">A personal ecosystem<br />in seven directions</p>
+        <p className="edition">Not everything needs a category,<br />some things just need a place to exist</p>
         <span className="date-mark">2026 — ∞</span>
       </div>
 
